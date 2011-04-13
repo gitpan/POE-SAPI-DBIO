@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/POE-SAPI-DBIO.t
+lib/POE/SAPI/DBIO.pm

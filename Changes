@@ -1,0 +1,6 @@
+Revision history for Perl extension POE::SAPI::DBIO.
+
+0.01  Wed Apr 13 11:56:33 2011
+	- original version; created by h2xs 1.23 with options
+		-b 5.10.1 -AX POE::SAPI::DBIO
+
